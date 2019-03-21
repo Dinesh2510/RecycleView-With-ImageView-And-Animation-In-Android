@@ -1,5 +1,10 @@
 # RecycleView-With-ImageView-And-Animation-In-Android
 
+### Demo:
+
+![giphy3](https://user-images.githubusercontent.com/46309253/54775337-c396e500-4c33-11e9-98ce-c24b89118f6a.gif)
+
+
 ### down_to_up.xml
 
 
